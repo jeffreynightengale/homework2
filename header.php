@@ -18,7 +18,7 @@
           <a class="nav-link active" aria-current="page" href="index.php">Using Post</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php">Using Get</a>
+          <a class="nav-link" href="index1.php">Using Get</a>
         </li>
       </ul>
     </div>
