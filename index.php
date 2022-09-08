@@ -1,7 +1,6 @@
 <?php require_once("header.php"); ?>
 <h1> Hello World </h1>
 <form action="handlepost.php" method="post">
-<form action="handlepost1.php" method="post1">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
