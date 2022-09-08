@@ -1,6 +1,6 @@
 <?php require_once("header.php"); ?>
 <h1> Hello World </h1>
-<form action="handlepost1.php" method="post">
+<form action="handlepost1.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 Favorite color: <input type="text" name="color"><br>
